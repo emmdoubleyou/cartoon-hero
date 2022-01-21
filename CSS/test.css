@@ -1,29 +1,32 @@
 body{
-	background-color: lightcoral;
+	background-color: palegoldenrod;
 }
 h1{
 	font-size: 30px;
 	color: teal;
-	}
-	h2{
+}
+
+h2{
 	color: darkmagenta;
 	font-size: 20px;
-	}
-	h2{
+}
+
+h2{
 	color: darkturquoise;
-	}
+}
 
-	.big {
+.big {
 	font-size: 60px;
-	}
+}
 
-	.uppercase {
+.uppercase {
 	text-transform: uppercase;
-	}
+}
 
-	.big.uppercase {
+.big.uppercase {
 	color: hotpink;
-	}
-	h1 span{
+}
+
+h1 span{
 	color: purple;
-	}
+}
