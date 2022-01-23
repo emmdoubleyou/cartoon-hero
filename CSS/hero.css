@@ -16,6 +16,7 @@ header{
 h1, h2{
 	font-family: 'Bitter', cursive;
 }
+/* header styles */
 header h1{
 	color: whitesmoke;
 	font-size: 50px;
